@@ -1,4 +1,4 @@
 name: Calum MacGillivray
 title: Calum MacGillivray
-description: [Home](/) | [About](/about/) | [Training Materials](/Training/)
+description: description: '<a href="/">Home</a> | <a href="/about/">About</a> | <a href="/Training/">Training Materials</a>'
 theme: jekyll-theme-cayman
