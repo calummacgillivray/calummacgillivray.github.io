@@ -36,3 +36,7 @@
     margin-bottom: 0.25em;
   }
 </style>
+
+{% if page.layout != "home" %}
+  {% include back-to-top.html %}
+{% endif %}
