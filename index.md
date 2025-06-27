@@ -28,12 +28,13 @@ title: Home
 
   <!-- Text Section -->
   <div style="text-align: center;">
-    <h1 style="margin: 0;">Calum MacGillivray</h1>
-    <h3 style="margin: 0.2em 0 1em; color: #555;">Postgraduate Researcher (Education)</h3>
-    <p style="margin: 0;">
-      <a href="https://discovery.dundee.ac.uk/en/persons/calum-macgillivray" target="_blank" style="color: #157878;">University Profile</a> |
-      <a href="https://orcid.org/0009-0001-2871-6735" target="_blank" style="color: #157878;">ORCiD</a> |
-      <a href="mailto:c.y.macgillivray@dundee.ac.uk" target="_blank" style="color: #157878;">Email</a>
+    <div style="display: inline-block; min-width: 300px;">
+      <h1 style="margin: 0;">Calum MacGillivray</h1>
+      <h3 style="margin: 0.2em 0 1em; color: #555;">Postgraduate Researcher (Education)</h3>
+      <p style="margin: 0;">
+        <a href="https://discovery.dundee.ac.uk/en/persons/calum-macgillivray" target="_blank" style="color: #157878;">University Profile</a> |
+        <a href="https://orcid.org/0009-0001-2871-6735" target="_blank" style="color: #157878;">ORCiD</a> |
+        <a href="mailto:c.y.macgillivray@dundee.ac.uk" target="_blank" style="color: #157878;">Email</a>
     </p>
   </div>
 </div>
