@@ -11,7 +11,6 @@ permalink: /Training/
 **Date:** 11/07/2025 <br>
 **Location:** Dalhousie Building, University of Dundee <br>
 **Funder:** Scottish Graduate School of Social Science <br><br>
-
 **Files:**
 - [Presentation](/assets/files/Presentation.pptx)
 - [Review Questions](/assets/files/Review_Questions.pdf)
