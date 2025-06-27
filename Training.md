@@ -7,6 +7,6 @@ permalink: /Training/
 {% include nav-links.html %}
 ---
 
-# Systematic Reviews
+# Systematic Reviews Training
 
 Content.....
