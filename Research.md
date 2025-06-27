@@ -1,5 +1,6 @@
 ---
 title: My Research
+permalink: /Research/
 ---
 ---
 {% include nav-links-style.html %}
