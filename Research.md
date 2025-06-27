@@ -9,21 +9,14 @@ permalink: /Research/
 
 # My PhD Research Project
 
-<div style="text-align: justify; margin-bottom: 1.0em;">
 Understanding the impact of primary-secondary school transitions on young people’s attainment over time: Secondary analysis of the longitudinal Growing Up in Scotland dataset and linked educational administrative datasets.
-</div>
 
 # Recent Outputs
 
-<div style="text-align: justify; margin-bottom: 1.0em;">
 **Blog Post:**
 [Utilising GUS to understand the impact of primary-secondary school transitions.](https://growingupinscotland.org.uk/utilising-gus-understand-impact-primary-secondary-school-transitions)
-</div>
-<br>
-<div style="text-align: justify; margin-bottom: 1.0em;">
 **Systematic Review Protocol:**
 [The impact of primary-secondary school transitions on educational attainment.](https://doi.org/10.17605/osf.io/n4fhu)
-</div>
 
 # More Information
 
