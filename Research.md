@@ -21,4 +21,4 @@ Understanding the impact of primary-secondary school transitions on young people
 
 # More Information
 
-Content...
+For more information about my research outputs and activities, please check my [university profile](https://discovery.dundee.ac.uk/en/persons/calum-macgillivray/activities/).
