@@ -7,8 +7,6 @@ title: Home
 {% include nav-links.html %}
 ---
 
-# Hello!
-
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; margin-top: 2rem;">
   <!-- Profile Image -->
   <img src="/assets/images/profile.jpg" alt="Profile Photo" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 3px solid #ccc;">
