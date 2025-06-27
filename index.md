@@ -52,4 +52,4 @@ His undergraduate research project involved a systematic review and meta-analysi
 </div>
 
 ### If you have any questions about my research (or just generally want to chat) then please drop me an email! 
-#### c.y.macgillivray@dundee.ac.uk
+c.y.macgillivray@dundee.ac.uk
