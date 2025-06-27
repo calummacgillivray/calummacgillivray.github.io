@@ -1,2 +1,2 @@
 [About Me](/about/)
-[Training Materials](/training/)
+[Training Materials](/Training/)
