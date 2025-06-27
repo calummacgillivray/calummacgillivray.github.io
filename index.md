@@ -27,7 +27,7 @@ title: Home
   ">
 
   <!-- Text Section -->
-  <div style="flex: 1 1 300px;">
+  <div style="text-align: center;">
     <h1 style="margin: 0;">Calum MacGillivray</h1>
     <h3 style="margin: 0.2em 0 1em; color: #555;">Postgraduate Researcher (Education)</h3>
     <p style="margin: 0;">
