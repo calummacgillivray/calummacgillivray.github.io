@@ -42,7 +42,7 @@ title: Home
 
 # Biography
 
-<div style="text-align: justify; margin-bottom: 1em;">
+<div style="text-align: justify; margin-bottom: 0.5em;">
 Calum MacGillivray is a Postgraduate Research Student working towards a PhD in Education, within the School of Humanities, Social Sciences and Law. He has been awarded ESRC funding for a PhD studentship from SGSSS. His project focuses on the impact of primary-secondary school transitions on young people’s attainment over time. This involves secondary analysis of the longitudinal Growing Up in Scotland dataset and relevant administrative datasets.
 <br><br>
 Prior to this he worked in childcare for 5 years and as a member of the team responsible for the administration of Discovery (the University of Dundee’s institutional repository). He has also received an MA (hons) in Psychology and English and an MSc in Developmental Psychology from the University of Dundee.
