@@ -9,16 +9,24 @@
     height: 48px;
     background-color: #157878;
     color: #fff;
-    border-radius: 50%; /* Makes it a perfect circle */
+    border-radius: 50%;
     text-decoration: none;
-    font-size: 1.5em;
+    font-size: 24px;
     font-weight: bold;
+    line-height: 48px; /* same as height for perfect vertical alignment */
+    text-align: center; /* centers horizontally */
+    display: block; /* fallback */
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
     z-index: 999;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     transition: background 0.3s ease, transform 0.2s ease;
+  }
+
+  /* Optional: use flexbox for perfect centering */
+  .back-to-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: normal; /* override line-height for flex centering */
   }
 
   .back-to-top:hover {
@@ -30,8 +38,7 @@
     .back-to-top {
       width: 40px;
       height: 40px;
-      font-size: 1.2em;
+      font-size: 20px;
     }
   }
 </style>
-
