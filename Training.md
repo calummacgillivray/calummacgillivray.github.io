@@ -8,9 +8,9 @@ permalink: /Training/
 ---
 
 # A Practical Overview of Systematic Reviews for the Social Sciences
-**Date:** 11/07/2025
-**Location:** Dalhousie Building, University of Dunde
-**Funder:** Scottish Graduate School of Social Science
+**Date:** 11/07/2025 <br>
+**Location:** Dalhousie Building, University of Dundee <br>
+**Funder:** Scottish Graduate School of Social Science <br><br>
 
 **Files:**
 - [Presentation](/assets/files/Presentation.pptx)
