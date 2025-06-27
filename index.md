@@ -38,6 +38,9 @@ title: Home
     </p>
   </div>
 </div>
+</div>
+
+---
 
 # Biography
 
