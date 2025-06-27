@@ -51,4 +51,5 @@ Prior to this he worked in childcare for 5 years and as a member of the team res
 His undergraduate research project involved a systematic review and meta-analysis of an early intervention program to support autistic children. And for his master’s project he took a phenomenological stance, looking at the experiences of Scottish students with the phenomenon of societal reopening after the COVID-19 lockdowns.
 </div>
 
-### If you have any questions about my research (or just generally want to chat) then please drop me an email! c.y.macgillivray@dundee.ac.uk
+### If you have any questions about my research (or just generally want to chat) then please drop me an email! 
+#### c.y.macgillivray@dundee.ac.uk
