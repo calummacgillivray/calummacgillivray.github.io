@@ -40,8 +40,6 @@ title: Home
 </div>
 </div>
 
----
-
 # Biography
 
 Calum MacGillivray is a Postgraduate Research Student working towards a PhD in Education, within the School of Humanities, Social Sciences and Law. He has been awarded ESRC funding for a PhD studentship from SGSSS. His project focuses on the impact of primary-secondary school transitions on young people’s attainment over time. This involves secondary analysis of the longitudinal Growing Up in Scotland dataset and relevant administrative datasets.
