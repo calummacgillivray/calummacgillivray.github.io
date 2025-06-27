@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About
+title: My Research
 permalink: /about/
 ---
 
-# About Me
+# My Research
 
 Here's more about me.
