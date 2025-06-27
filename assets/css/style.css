@@ -1,1 +1,17 @@
+.site-links {
+  text-align: center;
+  margin-top: 1em;
+  font-size: 1.1em;
+  color: #4A90E2; /* Change to any hex code you prefer */
+}
 
+.site-links a {
+  color: #4A90E2;
+  text-decoration: none;
+  margin: 0 0.75em;
+  padding: 0.25em;
+}
+
+.site-links a:hover {
+  text-decoration: underline;
+}
