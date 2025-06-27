@@ -1,2 +1,8 @@
-# Calum MacGillivray
-[Home](/) | [About](/about/) | [Training Materials](/Training/)
+title: Home
+---
+
+# Welcome to my site
+
+{% include tagline.html %}
+
+Here is some page content...
