@@ -1,6 +1,5 @@
 {% include nav-links-style.html %}
 {% include nav-links.html %}
-
 ---
 title: Home
 ---
