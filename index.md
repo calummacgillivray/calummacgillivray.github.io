@@ -31,9 +31,9 @@ title: Home
     <h1 style="margin: 0;">Calum MacGillivray</h1>
     <h3 style="margin: 0.2em 0 1em; color: #555;">Postgraduate Researcher (Education)</h3>
     <p style="margin: 0;">
-      <a href="https://discovery.dundee.ac.uk/en/persons/calum-macgillivray" target="_blank">University Profile</a> |
-      <a href="https://orcid.org/0009-0001-2871-6735" target="_blank">ORCiD</a> |
-      <a href="mailto:c.y.macgillivray@dundee.ac.uk" target="_blank">Email</a>
+      <a href="https://discovery.dundee.ac.uk/en/persons/calum-macgillivray" target="_blank" style="color: #157878;">University Profile</a> |
+      <a href="https://orcid.org/0009-0001-2871-6735" target="_blank" style="color: #157878;">ORCiD</a> |
+      <a href="mailto:c.y.macgillivray@dundee.ac.uk" target="_blank" style="color: #157878;">Email</a>
     </p>
   </div>
 </div>
@@ -43,7 +43,7 @@ title: Home
 
 # Biography
 
-<div style="text-align: justify; margin-bottom: 0.25em;">
+<div style="text-align: justify; margin-bottom: 1.0em;">
 Calum MacGillivray is a Postgraduate Research Student working towards a PhD in Education, within the School of Humanities, Social Sciences and Law. He has been awarded ESRC funding for a PhD studentship from SGSSS. His project focuses on the impact of primary-secondary school transitions on young people’s attainment over time. This involves secondary analysis of the longitudinal Growing Up in Scotland dataset and relevant administrative datasets.
 <br><br>
 Prior to this he worked in childcare for 5 years and as a member of the team responsible for the administration of Discovery (the University of Dundee’s institutional repository). He has also received an MA (hons) in Psychology and English and an MSc in Developmental Psychology from the University of Dundee.
