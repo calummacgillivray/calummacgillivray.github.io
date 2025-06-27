@@ -32,7 +32,7 @@ title: Home
     <h3 style="margin: 0.2em 0 1em; color: #555;">Postgraduate Researcher (Education)</h3>
     <p style="margin: 0;">
       <a href="https://discovery.dundee.ac.uk/en/persons/calum-macgillivray" target="_blank">University Profile</a> |
-      <a href="https://orcid.org/0009-0001-2871-6735" target="_blank">ORCiD</a>
+      <a href="https://orcid.org/0009-0001-2871-6735" target="_blank">ORCiD</a> |
       <a href="c.y.macgillivray@dundee.ac.uk" target="_blank">Email</a>
     </p>
   </div>
