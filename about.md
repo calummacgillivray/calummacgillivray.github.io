@@ -1,9 +1,19 @@
 ---
-layout: default
 title: My Research
-permalink: /about/
+---
+---
+{% include nav-links-style.html %}
+{% include nav-links.html %}
 ---
 
-# My Research
+# My PhD Research Project
 
-Here's more about me.
+Content.....
+
+# Recent Outputs
+
+Content...
+
+# More Information
+
+Content...
