@@ -1,10 +1,12 @@
 ---
-layout: default
-title: Training
+title: Training Materials
 permalink: /Training/
 ---
+---
+{% include nav-links-style.html %}
+{% include nav-links.html %}
+---
 
-# Training
+# Systematic Reviews
 
-Training info.
-
+Content.....
