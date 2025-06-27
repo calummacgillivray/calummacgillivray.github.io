@@ -7,6 +7,7 @@ title: Home
 {% include nav-links.html %}
 ---
 
+---
 <div style="
   display: flex;
   align-items: center;
@@ -38,8 +39,6 @@ title: Home
     </p>
   </div>
 </div>
-
-
 ---
 
 # Biography
