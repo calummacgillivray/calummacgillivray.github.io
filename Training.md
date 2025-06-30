@@ -30,9 +30,9 @@ permalink: /Training/
   <summary><strong>Session 4</strong></summary>
   <ul>
     <li><a href="/assets/files/Search_Criteria.pdf">Search Criteria</a></li>
-    <li><a href="/assets/files/Titles.pdf">Titles</a></li>
-    <li><a href="/assets/files/Abstracts.pdf">Abstracts</a></li>
-    <li><a href="/assets/files/Full_Texts.pdf">Full Texts</a></li>
+    <li><a href="/assets/files/Titles.xlsx">Titles</a></li>
+    <li><a href="/assets/files/Abstracts.xlsx">Abstracts</a></li>
+    <li><a href="/assets/files/Full_Texts.xlsx">Full Texts</a></li>
   </ul>
 </details>
 
