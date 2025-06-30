@@ -11,19 +11,19 @@ permalink: /Training/
 **Date:** 11/07/2025 <br>
 **Location:** Dalhousie Building, University of Dundee <br>
 **Funder:** Scottish Graduate School of Social Science <br>
-#### <ins>Presentation</ins>
+#### Presentation
 - [Presentation](/assets/files/Presentation.pptx)
-#### <ins>Session 3<ins>
+#### Session 3
 - [Review Questions](/assets/files/Review_Questions.pdf)
-#### <ins>Session 4</ins>
+#### Session 4
 - [Search Criteria](/assets/files/Search_Criteria.pdf)
 - [Titles](/assets/files/Titles.pdf)
 - [Abstracts](/assets/files/Abstracts.pdf)
 - [Full Texts](/assets/files/Full_Texts.pdf)
-#### <ins>Session 5</ins>
+#### Session 5
 - [Coding Sheet](/assets/files/Coding_Sheet.XLSX)
 - [Critical Appraisal Tools](/assets/files/Critical_Appraisal_Tools.pdf)
-#### <ins>Other Resources</ins>
+#### Other Resources
 - [Useful Resources](/assets/files/Useful_Resources.pdf)
 - [Further Reading](/assets/files/Further_Reading.pdf)
 
