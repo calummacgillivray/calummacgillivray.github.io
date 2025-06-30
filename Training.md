@@ -22,7 +22,7 @@ permalink: /Training/
 <details>
   <summary><strong>Session 3</strong></summary>
   <ul>
-    <li><a href="/assets/files/Review_Questions.pdf">Review Questions</a></li>
+    <li><a href="/assets/files/Review_Topics.pdf">Review Topics</a></li>
   </ul>
 </details>
 
