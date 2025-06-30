@@ -46,25 +46,29 @@
   }
 
 details summary {
-  list-style: none; /* Remove default arrow */
+  list-style: none;
   position: relative;
-  padding-left: 1.5em; /* space for arrow */
+  padding-left: 1.5em;
   cursor: pointer;
 }
 
 details summary::before {
-  content: "▶";           /* Right-pointing arrow */
+  content: "";
   position: absolute;
-  left: 0;
+  left: 0.4em;
   top: 50%;
-  transform: translateY(-50%);
-  font-size: 1em;
+  transform: translateY(-50%) rotate(0deg);
+  width: 0.6em;
+  height: 0.6em;
+  border-style: solid;
+  border-width: 0.15em 0.15em 0 0;
+  border-color: #157878;
   transition: transform 0.3s ease;
-  color: #157878;
 }
 
 details[open] summary::before {
-  transform: translateY(-50%) rotate(90deg); /* Arrow points down when open */
+  transform: translateY(-50%) rotate(45deg);
+  border-width: 0 0.15em 0.15em 0;
 }
   
 </style>
