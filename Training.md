@@ -13,44 +13,43 @@ permalink: /Training/
 **Funder:** Scottish Graduate School of Social Science <br>
 
 <details>
-<summary><strong>Presentation</strong></summary>
-
-- [Presentation](/assets/files/Presentation.pptx)
-
+  <summary><strong>Presentation</strong></summary>
+  <ul>
+    <li><a href="/assets/files/Presentation.pptx">Presentation</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><strong>Session 3</strong></summary>
-
-- [Review Questions](/assets/files/Review_Questions.pdf)
-
+  <summary><strong>Session 3</strong></summary>
+  <ul>
+    <li><a href="/assets/files/Review_Questions.pdf">Review Questions</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><strong>Session 4</strong></summary>
-
-- [Search Criteria](/assets/files/Search_Criteria.pdf)
-- [Titles](/assets/files/Titles.pdf)
-- [Abstracts](/assets/files/Abstracts.pdf)
-- [Full Texts](/assets/files/Full_Texts.pdf)
-
+  <summary><strong>Session 4</strong></summary>
+  <ul>
+    <li><a href="/assets/files/Search_Criteria.pdf">Search Criteria</a></li>
+    <li><a href="/assets/files/Titles.pdf">Titles</a></li>
+    <li><a href="/assets/files/Abstracts.pdf">Abstracts</a></li>
+    <li><a href="/assets/files/Full_Texts.pdf">Full Texts</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><strong>Session 5</strong></summary>
-
-- [Coding Sheet](/assets/files/Coding_Sheet.XLSX)
-- [Critical Appraisal Tools](/assets/files/Critical_Appraisal_Tools.pdf)
-
+  <summary><strong>Session 5</strong></summary>
+  <ul>
+    <li><a href="/assets/files/Coding_Sheet.xlsx">Coding Sheet</a></li>
+    <li><a href="/assets/files/Critical_Appraisal_Tools.pdf">Critical Appraisal Tools</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><strong>Other Resources</strong></summary>
-
-- [Useful Resources](/assets/files/Useful_Resources.pdf)
-- [Further Reading](/assets/files/Further_Reading.pdf)
-
+  <summary><strong>Other Resources</strong></summary>
+  <ul>
+    <li><a href="/assets/files/Useful_Resources.pdf">Useful Resources</a></li>
+    <li><a href="/assets/files/Further_Reading.pdf">Further Reading</a></li>
+  </ul>
 </details>
-
 
 ---
