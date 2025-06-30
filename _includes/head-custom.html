@@ -44,6 +44,30 @@
   a:focus {
     text-decoration: underline;
   }
+
+  <style>
+details summary {
+  list-style: none; /* Remove default arrow */
+  position: relative;
+  padding-left: 1.5em; /* space for arrow */
+  cursor: pointer;
+}
+
+details summary::before {
+  content: "▶";           /* Right-pointing arrow */
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1em;
+  transition: transform 0.3s ease;
+  color: #157878;
+}
+
+details[open] summary::before {
+  transform: translateY(-50%) rotate(90deg); /* Arrow points down when open */
+}
+  
 </style>
 
 {% if page.layout != "home" %}
