@@ -57,7 +57,7 @@ details summary::before {
   position: absolute;
   left: 0.4em;
   top: 50%;
-  transform: translateY(-50%) rotate(0deg);
+  transform: translateY(-50%) rotate(45deg); /* start pointing right */
   width: 0.6em;
   height: 0.6em;
   border-style: solid;
@@ -67,7 +67,7 @@ details summary::before {
 }
 
 details[open] summary::before {
-  transform: translateY(-50%) rotate(45deg);
+  transform: translateY(-50%) rotate(135deg); /* rotate down */
   border-width: 0 0.15em 0.15em 0;
 }
   
