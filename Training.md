@@ -48,7 +48,6 @@ permalink: /Training/
   <summary><strong>Other Resources</strong></summary>
   <ul>
     <li><a href="/assets/files/Useful_Resources.pdf">Useful Resources</a></li>
-    <li><a href="/assets/files/Further_Reading.pdf">Further Reading</a></li>
   </ul>
 </details>
 
