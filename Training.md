@@ -29,7 +29,7 @@ permalink: /Training/
 <details>
   <summary><strong>Session 4</strong></summary>
   <ul>
-    <li><a href="/assets/files/Search_Criteria.pdf">Search Criteria</a></li>
+    <li><a href="/assets/files/Inclusion_Criteria.pdf">Inclusion Criteria</a></li>
     <li><a href="/assets/files/Titles.xlsx">Titles</a></li>
     <li><a href="/assets/files/Abstracts.xlsx">Abstracts</a></li>
     <li><a href="/assets/files/Full_Texts.xlsx">Full Texts</a></li>
