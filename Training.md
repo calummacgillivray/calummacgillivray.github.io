@@ -15,7 +15,7 @@ permalink: /Training/
 <details>
   <summary><strong>Presentation</strong></summary>
   <ul>
-    <li><a href="/assets/files/Overview of Systematic Reviews July 2025.pptx">Presentation</a></li>
+    <li><a href="/assets/files/Overview_of_Systematic_Reviews_July_2025.pptx">Presentation</a></li>
   </ul>
 </details>
 
