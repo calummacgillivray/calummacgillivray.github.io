@@ -8,7 +8,7 @@ permalink: /Blog/
 ---
 
 
-## 1. <a href="/Blog/">Blog1</a>
+## 1. <a href="/Blog1/">The Point of the Blog</a>
 **Date:** 28/07/2025 <br>
 
 ---
