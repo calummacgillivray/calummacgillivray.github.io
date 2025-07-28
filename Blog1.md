@@ -7,5 +7,5 @@ permalink: /Blog1/
 {% include nav-links.html %}
 ---
 
-# 28/07/2025 The Point of the Blog
-
+# The Point of the Blog
+**Date:**
