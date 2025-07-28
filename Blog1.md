@@ -8,4 +8,4 @@ permalink: /Blog1/
 ---
 
 # The Point of the Blog
-**Date:**
+**Date:** 28/07/2025
