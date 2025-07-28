@@ -8,7 +8,7 @@ permalink: /Blog1/
 ---
 
 # The First Post
-**Date:** 28/07/2025
+**Date:** 28/07/2025 <br>
 **Post Number:** 1
 
 I have added a new blog section to my website. The idea behind this is to have a place where I can write about some of the short-form thoughts I have been having around my research, or other related things. Things that I think are interesting but which I may not otherwise have had an outlet for. It will also be handy to be able to have a link to share these posts.
