@@ -1,5 +1,6 @@
 ---
 title: Blog Post 1
+permalink: /Blog1/
 ---
 ---
 {% include nav-links-style.html %}
