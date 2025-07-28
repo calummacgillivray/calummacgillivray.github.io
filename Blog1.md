@@ -15,4 +15,4 @@ I have added a new blog section to my website. The idea behind this is to have a
 
 This first post mostly serves as a template for future posts. I am still fairly new to buidling a website, and it is handy to have a means of testing the blog system before I make future posts. It is also very helpful to have a fully replicable process that I can use for all future posts. I will likely improve this process in the future, but for now this works!
 
-If you have made it here, thanks for reading and for proving the system works! I'm looking forward to posting here again soon.
+If you have made it here, thanks for reading and for proving the system works. I'm looking forward to posting here again soon!
