@@ -9,7 +9,7 @@ permalink: /Projects/
 
 # My Projects
 
-Below are links to small personal projects I have worked on:
+Below are links to small personal projects I have worked on.
 
 ---
 
