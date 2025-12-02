@@ -6,7 +6,21 @@ permalink: /Training/
 {% include nav-links-style.html %}
 {% include nav-links.html %}
 ---
+## An Introduction to Meta-Analysis with R
+**Date:** 9/12/2025 <br>
+**Location:** Online <br>
+**Funder:** Scottish Graduate School of Social Science <br>
 
+<details>
+  <summary><strong>Data Files</strong></summary>
+  <ul>
+    <li><a href="/assets/files/Continuous_Data.xlsx">Continuous Data</a></li>
+    <li><a href="/assets/files/Binary_Data.xlsx">Binary Data</a></li>
+    <li><a href="/assets/files/Correlation_Data.xlsx">Correlation Data</a></li>
+  </ul>
+</details>
+
+---
 ## A Practical Overview of Systematic Reviews for the Social Sciences
 **Date:** 11/07/2025 <br>
 **Location:** Dalhousie Building, University of Dundee <br>
