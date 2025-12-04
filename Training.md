@@ -17,6 +17,8 @@ permalink: /Training/
     <li><a href="/assets/files/Continuous_Data.xlsx">Continuous Data</a></li>
     <li><a href="/assets/files/Binary_Data.xlsx">Binary Data</a></li>
     <li><a href="/assets/files/Correlation_Data.xlsx">Correlation Data</a></li>
+    <li><a href="/assets/files/publication_bias_1.xlsx">Publication Bias Example 1</a></li>
+    <li><a href="/assets/files/publication_bias_2.xlsx">Publication Bias Example 2</a></li>
   </ul>
 </details>
 
