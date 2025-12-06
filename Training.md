@@ -12,9 +12,10 @@ permalink: /Training/
 **Funder:** Scottish Graduate School of Social Science <br>
 
 <details>
-  <summary><strong>Presentation</strong></summary>
+  <summary><strong>Presentation and Notebook</strong></summary>
   <ul>
     <li><a href="/assets/files/meta-analysis_presentation.pdf">Presentation</a></li>
+    <li><a href="/assets/files/Training_Notebook.html">Static Notebook</a></li>
   </ul>
 </details>
 
