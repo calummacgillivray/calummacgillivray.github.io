@@ -12,6 +12,13 @@ permalink: /Training/
 **Funder:** Scottish Graduate School of Social Science <br>
 
 <details>
+  <summary><strong>Presentation</strong></summary>
+  <ul>
+    <li><a href="/assets/files/meta-analysis_presentation.pdf">Presentation</a></li>
+  </ul>
+</details>
+
+<details>
   <summary><strong>Data Files</strong></summary>
   <ul>
     <li><a href="/assets/files/Continuous_Data.xlsx">Continuous Data</a></li>
